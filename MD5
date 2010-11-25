@@ -1,0 +1,15 @@
+5fd8fb3c38ac17f7031bd0edcd1a4b79 *DESCRIPTION
+16a55763289cb8fee905dd193fb9027d *NAMESPACE
+59d3978ec2a77d44681cfb0f2912b5d2 *R/sub.functions.R
+65b3b1c0751bc3dde9e35b56d7aebac6 *R/tspc.cv.R
+94082930edef4b97172459fc01ba540b *R/tspc.plotcv.R
+4495bb8c6ec30129823d1b81102d0803 *R/tspc.predict.R
+9be92995a2657448eeb02b277c618753 *R/tspc.project.R
+4203e595ada81fbaf5bb0e2013f55c43 *R/tspc.train.R
+56a3cef29575a423e0e558c75a9f0d9d *man/TSPC-package.Rd
+813d21061a25ab9c95804a64f46d8689 *man/tspc.cv.Rd
+59efe64110e2334f75d12428c6ba3ecc *man/tspc.internal.Rd
+e71b6fc80c12dcfe4ce8ae225edaff7a *man/tspc.plotcv.Rd
+dd12622815edfaad631f617fbafb6556 *man/tspc.predict.Rd
+f7bc0832383fe6327726a1600f0dd794 *man/tspc.project.Rd
+fec9b5b6f564cd5923b75b4c5e84c4d8 *man/tspc.train.Rd
